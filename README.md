@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @soufthegoof
+- 👀 I’m interested in Dev/Sec
+- 🌱 I’m currently learning Kubernetes/Docker/CI-CD
